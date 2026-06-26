@@ -4,6 +4,8 @@ Permanent namespace for the AI Ethics Assessment Framework ontology developed as
 
 **Ontology IRI:** https://w3id.org/aief/
 
+Github ID: https://github.com/navinaamuthan/
+
 **Author:** Navina Ganapathy Amuthan, Trinity College Dublin (@navinaamuthan)
 
 **Contact:** ganapatn@tcd.ie
